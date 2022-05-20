@@ -1,0 +1,45 @@
+
+body{
+    background-color: #fefae0;
+    background-image:url(/images/banner.jpeg);
+    background-position: center;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+    text-shadow: 5px 1px 17px #ff006e;
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+
+.product-container{
+    background-color: #faedcd;
+    width:50%;
+    border: 1px solid #faedcd;
+    border-radius: 10px;
+    box-shadow: 5px 1px 17px #ff006e;
+    justify-content: center;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+button{
+    margin-bottom:4px;
+}
+
+li{
+    font-family: 'Koulen', cursive;
+}
+
+/* .catalog-container{
+    background-image:url(/images/banner.jpeg);
+} */
+
